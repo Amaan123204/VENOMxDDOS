@@ -11,7 +11,6 @@ keep_alive()
 bot = telebot.TeleBot('7256329864:AAHnzzoo_ifMvfnQrUNJIYoBB7lPMbsy8GE')
 # Admin user IDs
 admin_id = ["6137954440"]
-"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
